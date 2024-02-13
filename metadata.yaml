@@ -1,0 +1,63 @@
+_repo: The-Illiterate-Digest_72717
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Collier, Nate
+    alias: Collier, Nathan Leo
+    birthdate: 1883
+    deathdate: 1961
+    gutenberg_agent_id: '56769'
+    url: http://www.gutenberg.org/2009/agents/56769
+creator:
+  author:
+    agent_name: Rogers, Will
+    aliases:
+    - Rogers, William Penn Adair
+    - Rogers, Willie
+    birthdate: 1879
+    deathdate: 1935
+    gutenberg_agent_id: '9392'
+    url: http://www.gutenberg.org/2009/agents/9392
+    wikipedia: https://en.wikipedia.org/wiki/Will_Rogers
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72717'
+  lccn: '25002371'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=miun.afw6973.0001.001
+pgterms:marc905: 20220507234734rogers
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Carla Foust, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlbert & Charles Boni, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Two letters and a dedication -- Introduction -- Breaking into the
+  writing game -- Settling the corset problem of this country -- How to tell a butler,
+  and other etiquette -- Defending my soup plate position -- Helping the girls with
+  their income taxes -- The greatest document in American literature -- Prospectus
+  for "The Remodeled Chewing Gum Corporation" -- Inside stuff on the total eclipse
+  -- It''s time somebody said a word for California -- Promoting the oceanless one-piece
+  suit -- Warning to jokers: lay off the Prince -- Spring is here, with poems and
+  bath tubs -- My Ford and other political self-starters -- Wilson could laugh at
+  a joke on himself -- A job with the James family -- Let''s treat our presidents
+  like human beings -- What with fruit juice and consomme, it was a wild party --
+  What we need is more Fred Stones -- One oil lawyer per barrel -- Another confession
+  in the oil scandal -- The whole truth and nothing but the truth -- Well, who is
+  Prunes? -- Politics getting ready to jell -- Two long-lost friends found at last
+  -- They nominated everybody but the four horsemen -- In the midst of a 7-year hitch
+  -- "Will Rogers, Jr." reports the convention for his father, worn out by long service
+  -- Roping a critic -- "The World Tomorrow," after the manner of great journalists
+  -- Settling the affairs of the world in my own way -- A skinny Dakota kid who made
+  good -- Taking the cure, by the shores of Cat Creek.'
+title: The Illiterate Digest
+url: http://www.gutenberg.org/ebooks/72717
